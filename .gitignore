@@ -1,0 +1,12 @@
+__pycache__/
+.env
+.env.example
+*.pyc
+*.pyo
+*.pyd
+migrations/
+.vscode/
+.idea/
+*.log
+__MACOSX/
+
